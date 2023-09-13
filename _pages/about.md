@@ -1,5 +1,5 @@
 ---
-title: About
+title: INFORMACAO DO INE
 language: en
 permalink: /about/
 layout: page
