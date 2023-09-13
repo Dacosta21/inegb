@@ -1,7 +1,7 @@
 ---
 title: INFORMACAO DO INE
 language: en
-permalink: /about/
+permalink: /documentacoes do ine/
 layout: page
 ---
 ## Table of contents
