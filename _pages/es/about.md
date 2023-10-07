@@ -2,7 +2,7 @@
 title: About
 permalink: /es/about/
 layout: page
-language: es
+language: pt
 ---
 
 Translation needed.
